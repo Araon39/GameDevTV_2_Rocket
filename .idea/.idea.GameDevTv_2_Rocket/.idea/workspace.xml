@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -56,6 +59,7 @@
       <updated>1696862663532</updated>
       <workItem from="1696862668839" duration="1227000" />
       <workItem from="1696965028421" duration="2852000" />
+      <workItem from="1697016800008" duration="379000" />
     </task>
     <servers />
   </component>

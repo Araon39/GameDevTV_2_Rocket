@@ -12,6 +12,7 @@
         <e p="Scripts" t="Include">
           <e p="Mover.cs" t="Include" />
         </e>
+        <e p="SFX" t="Include" />
       </e>
       <e p="GameDevTv_2_Rocket.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
