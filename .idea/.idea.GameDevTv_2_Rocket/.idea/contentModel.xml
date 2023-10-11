@@ -10,6 +10,7 @@
         <e p="Prefabs" t="Include" />
         <e p="Scenes" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="Colision.cs" t="Include" />
           <e p="Mover.cs" t="Include" />
         </e>
         <e p="SFX" t="Include" />
